@@ -8,7 +8,7 @@ dnspython==2.3.0
 hachoir
 heroku3
 motor
-pillow==9.5.0
+pillow
 psutil
 wget
 qrcode
@@ -41,3 +41,4 @@ git+https://github.com/AsmSafone/SafoneAPI
 bing_image_downloader
 Flask==2.3.3
 Flask-RESTful==0.3.9
+request
